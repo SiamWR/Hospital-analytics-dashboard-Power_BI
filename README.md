@@ -1,4 +1,4 @@
-# Hospital-analytics-dashboard-Power_BI
+# Hospital-monitoring-dashboard-Power_BI
 Interactive Power BI dashboard for hospital performance monitoring, patient demographics, healthcare trends, and treatment cost analysis.
 ## Overview
 
